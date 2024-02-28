@@ -1,0 +1,36 @@
+.flex div{
+    padding: 50px;
+    margin: 20px;
+    background-color: grey;
+    height: 5px;
+    display: grid;
+    /* width: 50px; */
+    /* flex-grow: 10px; */
+    
+    
+    
+}
+
+.flex{
+    /* display:flex; */
+    /* justify-content:center; */
+     /* flex-direction:column; */
+    /* align-items:center; */
+    /* height: 100px;
+     width: 200px; */
+    /* /* flex-wrap:wr */
+    /* display: grid; */
+    /* flex-flow: row; */
+    
+
+    background-color:violet
+}
+.flex{
+    display:inline-grid;
+    grid-template-columns: 200px 200px 200px;
+    gap: 40px ;
+    
+    
+    
+    
+}
